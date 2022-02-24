@@ -92,7 +92,7 @@ Widget build(BuildContext context) {
 
 ### Adding Supported Locales
 
-Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info.plist` to include the new locale.
+Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info.plist` to include the new locale
 
 ```xml
     ...
